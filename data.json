@@ -11,7 +11,7 @@
             "date": "soon",
             "head": "MuClimb",
             "para": "Climb up to Level 7",
-            "img": "/mulearn-ucek assets/muclimb1.png"
+            "img": "./mulearn-ucek assets/muclimb1.png"
         },
         {
             "month": "Sep",
