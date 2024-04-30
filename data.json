@@ -3,7 +3,7 @@
 
     "college": "University College Of Engineering, Kariavattom ",
 
-    "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
+    "about": "Welcome to MuLearn UCEK! MuLearn is an online platform and student community committed to empowering students to enhance their skills and thrive as individuals and as a community. Our approach integrates micro peer groups, interest groups, and gamified tasks, encouraging engaging and collaborative learning experiences. MuLearn has been successfully implemented at UCEK, assisting students in honing their skills and facilitating easier access to internships and placements. Join us on a journey of growth and discovery, as we support each other's paths to knowledge and personal development.",
 
     "events": [
         {
@@ -11,34 +11,35 @@
             "date": "soon",
             "head": "MuClimb",
             "para": "Climb up to Level 7",
-            "img": "mulearn-ucek assets/muclimb1.png"
+            "img": "mulearn-ucek assets/events/muclimb1.png"
+        },
+
+        {
+            "month": "Feb",
+            "date": "06",
+            "head": "Inspiration Station",
+            "para": "Inspiration station organised by MulearnUcek",
+            "img": "mulearn-ucek assets/events/Isr_pic.png"
+        },
+        {
+            "month": "Dec",
+            "date": "14",
+            "head": "Build N Ship",
+            "para": "A talk session on product development and buildNship ",
+            "img": "mulearn-ucek assets/events/buildnship.png"
+        },
+        {
+            "month": "OCT",
+            "date": "05",
+            "head": "Smart India Internal Hackathon",
+            "para": "Organized in collaboration with Tinkerhub,Foss and IEEE Ucek",
+            "img": "mulearn-ucek assets/events/SIH_pic.png"
         },
         {
             "month": "Sep",
-            "date": "27",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "26",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        },
-        {
-            "month": "Sep",
-            "date": "25",
-            "head": "Opportunities in TCS EIS",
-            "para": "Webinar on Engineering and Industrial Services division of TCS.",
+            "date": "14",
+            "head": "Mulearn Orientation",
+            "para": "Mulearn orientation and onboarding of students",
             "img": "https://wallpaperaccess.com/full/1642272.jpg"
         }
     ],
@@ -46,15 +47,14 @@
     "gallery": {
         "row1": [
             {
-                "image": "https://mulearn.org/assets/home/illustration.webp"
+                "image": "mulearn-ucek assets/gallery/permute.png"
             },
             {
-                "image": "https://mulearn.org/assets/home/Chart.webp"
+                "image": "mulearn-ucek assets/gallery/score.png"
             },
 			{
-				"image": "https://learn.mulearn.org/assets/challenge/typingsample.webp"
-			}
-        ],
+				"image": "mulearn-ucek assets/gallery/score2.png"
+     } ],
         "row2": [
             {
                 "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
@@ -70,41 +70,41 @@
         "learningCircles": 32,
         "InterestGroups": 5,
         "karmaEarned":354.24,
-        "rank": 7
+        "rank": 8
     },
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
-        },
-        "campusLead": {
             "name": "Elon Musk",
             "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
         },
+        "campusLead": {
+            "name": "Suryan S",
+            "image": "mulearn-ucek assets/team/suryan.png"
+        },
         "campusCoLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "OnTheWay",
+            "image": ""
         },
         "treasurer": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "OnTheWay",
+            "image": ""
         },
         "technicalLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "OnTheWay",
+            "image": ""
         },
         "mediaLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "OnTheWay",
+            "image": ""
         },
         "contentLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "OnTheWay",
+            "image": ""
         },
         "operationLead": {
-            "name": "Enric S Neelamkavil",
-            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+            "name": "OnTheWay",
+            "image": ""
         }
     },
 
@@ -112,11 +112,11 @@
 
     "whatsAppLink": "",
 
-    "email": "mulearn@cce.edu.in",
+    "email": "mulearnucek@gmail.com",
 
-    "linkedIn": "",
+    "linkedIn": "https://www.linkedin.com/company/mulearn-ucek/ ",
 
-    "instagram": "",
+    "instagram": "https://www.instagram.com/mulearn.ucek/",
 
     "twitter": "",
 
