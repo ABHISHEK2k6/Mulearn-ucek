@@ -1,124 +1,132 @@
 {
-    "collegeCode": "UCEK",
+  "collegeCode": "UCEK",
 
-    "college": "University College Of Engineering, Kariavattom ",
+  "college": "University College Of Engineering, Kariavattom ",
 
-    "about": "Welcome to MuLearn UCEK! MuLearn is an online platform and student community committed to empowering students to enhance their skills and thrive as individuals and as a community. Our approach integrates micro peer groups, interest groups, and gamified tasks, encouraging engaging and collaborative learning experiences. MuLearn has been successfully implemented at UCEK, assisting students in honing their skills and facilitating easier access to internships and placements. Join us on a journey of growth and discovery, as we support each other's paths to knowledge and personal development.",
+  "about": "Welcome to MuLearn UCEK! MuLearn is an online platform and student community committed to empowering students to enhance their skills and thrive as individuals and as a community. Our approach integrates micro peer groups, interest groups, and gamified tasks, encouraging engaging and collaborative learning experiences. MuLearn has been successfully implemented at UCEK, assisting students in honing their skills and facilitating easier access to internships and placements. Join us on a journey of growth and discovery, as we support each other's paths to knowledge and personal development.",
 
-    "events": [
-        {
-            "month": "Coming",
-            "date": "soon",
-            "head": "MuClimb",
-            "para": "Climb up to Level 7",
-            "img": "mulearn-ucek assets/events/muclimb1.png"
-        },
+  "events": [
+    {
+      "month": "Coming",
+      "date": "soon",
+      "head": "MuClimb",
+      "para": "Climb up to Level 7",
+      "img": "mulearn-ucek assets/events/muclimb1.png"
+    },
+    {
+      "month": "May",
+      "date": "16",
+      "head": "La La LLM",
+      "para": "La La LLM organised by MulearnUcek",
+      "img": "mulearn-ucek assets/events/LLM.jpeg"
+    },
 
-        {
-            "month": "Feb",
-            "date": "06",
-            "head": "Inspiration Station",
-            "para": "Inspiration station organised by MulearnUcek",
-            "img": "mulearn-ucek assets/events/Isr_pic.png"
-        },
-        {
-            "month": "Dec",
-            "date": "14",
-            "head": "Build N Ship",
-            "para": "A talk session on product development and buildNship ",
-            "img": "mulearn-ucek assets/events/buildnship.png"
-        },
-        {
-            "month": "OCT",
-            "date": "05",
-            "head": "Smart India Internal Hackathon",
-            "para": "Organized in collaboration with Tinkerhub,Foss and IEEE Ucek",
-            "img": "mulearn-ucek assets/events/SIH_pic.png"
-        },
-        {
-            "month": "Sep",
-            "date": "14",
-            "head": "Mulearn Orientation",
-            "para": "Mulearn orientation and onboarding of students",
-            "img": "https://wallpaperaccess.com/full/1642272.jpg"
-        }
+    {
+      "month": "Feb",
+      "date": "06",
+      "head": "Inspiration Station",
+      "para": "Inspiration station organised by MulearnUcek",
+      "img": "mulearn-ucek assets/events/Isr_pic.png"
+    },
+    {
+      "month": "Dec",
+      "date": "14",
+      "head": "Build N Ship",
+      "para": "A talk session on product development and buildNship ",
+      "img": "mulearn-ucek assets/events/buildnship.png"
+    },
+    {
+      "month": "OCT",
+      "date": "05",
+      "head": "Smart India Internal Hackathon",
+      "para": "Organized in collaboration with Tinkerhub,Foss and IEEE Ucek",
+      "img": "mulearn-ucek assets/events/SIH_pic.png"
+    },
+    {
+      "month": "Sep",
+      "date": "14",
+      "head": "Mulearn Orientation",
+      "para": "Mulearn orientation and onboarding of students",
+      "img": "https://wallpaperaccess.com/full/1642272.jpg"
+    }
+  ],
+
+  "gallery": {
+    "row1": [
+      {
+        "image": "mulearn-ucek assets/gallery/permute.png"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/score.png"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/score2.png"
+      }
     ],
+    "row2": [
+      {
+        "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
+      },
+      {
+        "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
+      }
+    ]
+  },
 
-    "gallery": {
-        "row1": [
-            {
-                "image": "mulearn-ucek assets/gallery/permute.png"
-            },
-            {
-                "image": "mulearn-ucek assets/gallery/score.png"
-            },
-			{
-				"image": "mulearn-ucek assets/gallery/score2.png"
-     } ],
-        "row2": [
-            {
-                "image": "https://th.bing.com/th/id/OIP.p5zC9uLm5ByGSy8gYI0McAHaE8?pid=ImgDet&rs=1"
-            },
-            {
-                "image": "https://images.squarespace-cdn.com/content/v1/5c710438b914490d5769a64f/b4fb2b4f-5f95-41a1-9416-d156d0ae273f/Most+Famous+Astrologer+in+the+World.jpg"
-            }
-        ]
+  "statistics": {
+    "studentsCount": 297,
+    "learningCircles": 32,
+    "InterestGroups": 5,
+    "karmaEarned": 354.24,
+    "rank": 8
+  },
+
+  "team": {
+    "staffAdvisor": {
+      "name": "Vidhya S",
+      "image": "https://t3.ftcdn.net/jpg/08/05/28/22/240_F_805282248_LHUxw7t2pnQ7x8lFEsS2IZgK8IGFXePS.jpg"
     },
-
-    "statistics": {
-        "studentsCount": 297,
-        "learningCircles": 32,
-        "InterestGroups": 5,
-        "karmaEarned":354.24,
-        "rank": 8
+    "campusLead": {
+      "name": "Suryan S",
+      "image": "mulearn-ucek assets/team/suryan.png"
     },
-
-    "team": {
-        "staffAdvisor": {
-            "name": "Elon Musk",
-            "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
-        },
-        "campusLead": {
-            "name": "Suryan S",
-            "image": "mulearn-ucek assets/team/suryan.png"
-        },
-        "campusCoLead": {
-            "name": "OnTheWay",
-            "image": ""
-        },
-        "treasurer": {
-            "name": "OnTheWay",
-            "image": ""
-        },
-        "technicalLead": {
-            "name": "OnTheWay",
-            "image": ""
-        },
-        "mediaLead": {
-            "name": "OnTheWay",
-            "image": ""
-        },
-        "contentLead": {
-            "name": "OnTheWay",
-            "image": ""
-        },
-        "operationLead": {
-            "name": "OnTheWay",
-            "image": ""
-        }
+    "campusCoLead": {
+      "name": "Adarsh Dev M R",
+      "image": "mulearn-ucek assets/team/Adarsh.jpeg"
     },
+    "treasurer": {
+      "name": "OnTheWay",
+      "image": ""
+    },
+    "technicalLead": {
+      "name": "OnTheWay",
+      "image": ""
+    },
+    "mediaLead": {
+      "name": "Arunkumar D",
+      "image": "mulearn-ucek assets/team/arun.jpg"
+    },
+    "contentLead": {
+      "name": "Mahesh S",
+      "image": "mulearn-ucek assets/team/mahesh.jpg"
+    },
+    "operationLead": {
+      "name": "Krishna Prasanth S",
+      "image": "mulearn-ucek assets/team/KP.png"
+    }
+  },
 
-    "discordLink": "",
+  "discordLink": "",
 
-    "whatsAppLink": "",
+  "whatsAppLink": "",
 
-    "email": "mulearnucek@gmail.com",
+  "email": "mulearnucek@gmail.com",
 
-    "linkedIn": "https://www.linkedin.com/company/mulearn-ucek/ ",
+  "linkedIn": "https://www.linkedin.com/company/mulearn-ucek/ ",
 
-    "instagram": "https://www.instagram.com/mulearn.ucek/",
+  "instagram": "https://www.instagram.com/mulearn.ucek/",
 
-    "twitter": "",
+  "twitter": "",
 
-    "facebook": ""
+  "facebook": ""
 }
