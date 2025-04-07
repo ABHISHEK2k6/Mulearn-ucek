@@ -53,14 +53,23 @@
 
   "gallery": {
     "row1": [
-      {
-        "image": "mulearn-ucek assets/gallery/permute.png"
-      },
-      {
+            {
         "image": "mulearn-ucek assets/gallery/score.png"
       },
       {
         "image": "mulearn-ucek assets/gallery/score2.png"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/permute.png"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/Award_cermony.jpg"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/Award.jpg"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/Group.jpg"
       }
     ],
     "row2": [
