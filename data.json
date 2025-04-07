@@ -54,13 +54,22 @@
   "gallery": {
     "row1": [
       {
-        "image": "mulearn-ucek assets/gallery/permute.png"
+        "image": "mulearn-ucek assets/gallery/Award_cermony.jpg"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/Award.jpg"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/Group.jpg"
       },
       {
         "image": "mulearn-ucek assets/gallery/score.png"
       },
       {
         "image": "mulearn-ucek assets/gallery/score2.png"
+      },
+      {
+        "image": "mulearn-ucek assets/gallery/permute.png"
       }
     ],
     "row2": [
@@ -120,13 +129,13 @@
     }
   },
 
-  "discordLink": "",
+  "discordLink": "https://discord.gg/GgZCqppkJF",
 
   "whatsAppLink": "",
 
   "email": "mulearnucek@gmail.com",
 
-  "linkedIn": "https://www.linkedin.com/company/mulearn-ucek/ ",
+  "linkedIn": "https://www.linkedin.com/company/mulearnucek/",
 
   "instagram": "https://www.instagram.com/mulearn.ucek/",
 
